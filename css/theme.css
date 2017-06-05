@@ -576,7 +576,7 @@ textarea.contact {
 	-o-transition:border linear 0.2s,box-shadow linear 0.2s;
 	transition:border linear 0.2s,box-shadow linear 0.2s;
 }
-@media screen and (min-width:768px) {
+@media screen and (min-width:512px) {
 	input.contact.col-md-6 {
 		width: 32.3%;
 	}
